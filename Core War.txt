@@ -1,4 +1,4 @@
 http://en.wikipedia.org/wiki/Core_War
 http://www.corewars.org/
 
-röviden: egy olyan játék, ahol két program próbálja kinyírni egymást egy virtuális számítógépben. A programok nyelve Redcode (kitalált assembly nyelv), a cél hogy az "ellenséges" programot hibás utasítás végrehajtására kényszerítsük. Jó móka lehet a keretprogram megírása (bár az viszonylag egyszerû), de nyerõ algoritmusokat keresni hozzá. Legyen ilyen feladat?
+rï¿½viden: egy olyan jï¿½tï¿½k, ahol kï¿½t program prï¿½bï¿½lja kinyï¿½rni egymï¿½st egy virtuï¿½lis szï¿½mï¿½tï¿½gï¿½pben. A programok nyelve Redcode (kitalï¿½lt assembly nyelv), a cï¿½l hogy az "ellensï¿½ges" programot hibï¿½s utasï¿½tï¿½s vï¿½grehajtï¿½sï¿½ra kï¿½nyszerï¿½tsï¿½k. Jï¿½ mï¿½ka lehet a keretprogram megï¿½rï¿½sa (bï¿½r az viszonylag egyszerï¿½), de nyerï¿½ algoritmusokat keresni hozzï¿½. Legye
