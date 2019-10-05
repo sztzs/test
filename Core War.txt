@@ -1,4 +1,4 @@
 http://en.wikipedia.org/wiki/Core_War
 http://www.corewars.org/
 
-r�viden: egy olyan j�t�k, ahol k�t program pr�b�lja kiny�rni egym�st egy virtu�lis sz�m�t�g�pben. A programok nyelve Redcode (kital�lt assembly nyelv), a c�l hogy az "ellens�ges" programot hib�s utas�t�s v�grehajt�s�ra k�nyszer�ts�k. J� m�ka lehet a keretprogram meg�r�sa (b�r az viszonylag egyszer�), de nyer� algoritmusokat keresni hozz�. Legye
+röviden: egy olyan játék, ahol két program próbálja kinyírni egymást egy virtuális számítógépben. A programok nyelve Redcode (kitalált assembly nyelv), a cél hogy az "ellenséges" programot hibás utasítás végrehajtására kényszerítsük. Jó móka lehet a keretprogram megírása (bár az viszonylag egyszerű), de nyerő algoritmusokat keresni hozzá.
